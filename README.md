@@ -51,15 +51,4 @@ Let's take an example list [5, 3, 9, 1, 4, 8, 6] and measure the execution time 
 - Insertion Sort: O(n^2) - Simple, but less efficient for large datasets.
 - Selection Sort: O(n^2) - Simple, but less efficient for large datasets.
 
-## Jokes
-
-**Why do programmers prefer dark mode?**
-Because the light attracts bugs!
-
-**How many programmers does it take to change a light bulb?**
-None. It's a hardware issue.
-
-**Why did the programmer quit his job?**
-He didn't get arrays.
-
 Feel free to explore and have fun with these sorting algorithms! 🚀
